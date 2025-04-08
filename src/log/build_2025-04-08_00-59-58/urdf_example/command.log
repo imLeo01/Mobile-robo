@@ -1,0 +1,6 @@
+Invoking command in '/home/hiu/dev_ws/src/build/urdf_example': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/hiu/dev_ws/src/urdf_example -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/hiu/dev_ws/src/install/urdf_example
+Invoked command in '/home/hiu/dev_ws/src/build/urdf_example' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/hiu/dev_ws/src/urdf_example -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/hiu/dev_ws/src/install/urdf_example
+Invoking command in '/home/hiu/dev_ws/src/build/urdf_example': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/hiu/dev_ws/src/build/urdf_example -- -j2 -l2
+Invoked command in '/home/hiu/dev_ws/src/build/urdf_example' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/hiu/dev_ws/src/build/urdf_example -- -j2 -l2
+Invoking command in '/home/hiu/dev_ws/src/build/urdf_example': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/hiu/dev_ws/src/build/urdf_example
+Invoked command in '/home/hiu/dev_ws/src/build/urdf_example' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/hiu/dev_ws/src/build/urdf_example
